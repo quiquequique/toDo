@@ -1,0 +1,18 @@
+[
+ {
+  "titulo": "Repasar JS",
+  "estado": "terminada"
+ },
+ {
+  "titulo": "pesca",
+  "estado": "pendiente"
+ },
+ {
+  "titulo": "fiesta",
+  "estado": "pendiente"
+ },
+ {
+  "titulo": "lo tengo",
+  "estado": "pendiente"
+ }
+]
