@@ -65,7 +65,7 @@ switch(accion){
         }
         
         
-//modificacion pata test git
+//modificacion pata test git  ¡¡¡¡
 //falta borrar, borrar terminados, Help y shortcuts
 //chalk instalar
 
