@@ -65,7 +65,7 @@ switch(accion){
         }
         
 
-//modificacion pata test git  ¡¡¡¡
+//modificacion pata test git oirtu´wptepr´twéprotw´prow´pot ¡¡¡¡
 //falta borrar, borrar terminados, Help y shortcuts
 //chalk instalar
 
