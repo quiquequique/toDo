@@ -16,7 +16,15 @@
   "estado": "pendiente"
  },
  {
-    "titulo": "esta",
-    "estado": "pendiente"
-   }
+  "titulo": "esta",
+  "estado": "terminada"
+ },
+ {
+  "titulo": "ir",
+  "estado": "pendiente"
+ },
+ {
+  "titulo": "ir al super",
+  "estado": "pendiente"
+ }
 ]
